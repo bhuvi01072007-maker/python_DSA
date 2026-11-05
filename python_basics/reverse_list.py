@@ -3,4 +3,4 @@ def reverse_list(num):
     for i in range(len(num)-1,-1,-1):
         result.append(num[i])
     return(result)
-print(reverse_list([1,2,3,4,5]))
+print(reverse_list([1,2,3,4,5])) 
